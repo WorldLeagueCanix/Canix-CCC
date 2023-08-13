@@ -4,8 +4,8 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://worldleaguecanix.github.io/Canix-NO/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1cmVXzUKKRMAQ-Z9FcqvkrcoRD_auKSOFsNLNX59c638/edit#gid=0
+- Leaflet Map https://worldleaguecanix.github.io/Canix-CCC/
+- Google Sheets template https://docs.google.com/spreadsheets/d/18z3fq0sZOiW_kS7nEwS4qv7px2q9gneHcOY6k5pWJ0k/edit#gid=0
 
 ## Create your own
 See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
